@@ -1,0 +1,23 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Adrian Valdes Zertuche
+Matrícula: A01384487
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Porque esta en el plan de estudios jaja.
+
+¿Qué espero aprender?
+Espero aprender a poder moverme por mi cuenta, no me quiero saber el contenido del curso de memoria pero poder tener la audacia de arreglarmela para usar las herramientas que veamos en el curso.
+
+Herramientas que ya conozco:
+- Python
+- VS Code
+
+Herramientas nuevas para mí:
+- Anaconda
+- Pandas
+- SQL
+- Git Bash
+
